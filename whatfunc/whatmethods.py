@@ -34,8 +34,3 @@ class MethodFinder(object):
                 repr(anObject),
                 name,
                 repr(expectedResult))
-        return
-
-if __name__ == '__main__':
-    ''' example '''
-    what(3, 3)
